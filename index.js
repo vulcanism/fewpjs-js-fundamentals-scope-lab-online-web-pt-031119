@@ -13,6 +13,6 @@ function yourAnimal() {
 
 function add2(n) {
   let two = 2
-  return n + two 
-  
+  return n + two
+
 }
